@@ -40,10 +40,13 @@ img{
 
 }
 
-@meida (max-width: 600px){
+@media(max-width: 464px){
     button{
-        margin: 15px;
-        background-color: red;
+        margin: 20px 0px;
     }
+     img{
+        width: 50px;
+     }
 }
+
 
