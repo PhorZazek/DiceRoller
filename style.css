@@ -36,8 +36,6 @@ img{
     width: 80px;
     margin: 15px 7px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.5);
-
 }
 
 @media(max-width: 464px){
@@ -48,5 +46,6 @@ img{
         width: 50px;
      }
 }
+
 
 
