@@ -37,4 +37,11 @@ img{
     margin: 15px 7px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.5);
+
+}
+
+@meida(max-width: 770px){
+    button{
+        margin: 15px;
+    }
 }
